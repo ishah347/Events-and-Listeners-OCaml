@@ -1,12 +1,7 @@
 
-## lab8
+## Events-and-Listeners-Ocaml
 
-Before you start working, add the extra remote repository for lab8. To do so, run:
-
-`git remote add distribution git@github.com:cs51/lab8.git`
-
-To check for updates, run:
-
-`git pull distribution master`
-
-You should run this periodically to check for updates.
+Practice with events and listeners, a paradigm that is
+particularly useful in the programming of front-end applications.
+Event programming in the back-end has also grown in popularity
+with the rise of Node.js. 
